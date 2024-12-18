@@ -21,7 +21,7 @@ Description: This project provides valuable insights into the factors influencin
 
 Project Name 2: Wisconsin Breast Cancer Diagnosis Analysis     
 
-Description: This project focuses on the development and evaluation of a machine learning pipeline to classify breast cancer tumors as benign or malignant. Using the Breast Cancer Wisconsin Dataset, the analysis applies LASSO for feature selection and several classifiers—K-Nearest Neighbors (KNN), Naive Bayes, Support Vector Machine (SVM), Decision Tree, and Random Forest—to optimize the model's predictive accuracy. The aim is to demonstrate the potential of machine learning in improving early detection and diagnosis of breast cancer.
+Description: This project focuses on the development and evaluation of a machine learning pipeline to classify breast cancer tumors as benign or malignant. Using the Breast Cancer Wisconsin Dataset, the analysis applies LASSO for feature selection and several classifiers—K-Nearest Neighbors (KNN), Naive Bayes, Support Vector Machine (SVM), Decision Tree, and Random Forest—to optimize the model's predictive accuracy. The aim is to demonstrate the potential of machine learning in improving early detection and diagnosis of breast cancer.      
 🧑‍💻 Tech Used:     
 - Programming Language: R
 - Libraries/Packages: caret, glmnet, e1071, randomForest
