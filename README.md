@@ -1,13 +1,13 @@
 ## Hi there , I'm Svetlana! 👋
-I'm a senior at the University of Illinois at Chicago, majoring in Data Science and a Machine Learning enthusiast. I am passionate about numbers, statistics, and using data to drive impactful decisions. My expertise includes building predictive models, uncovering actionable insights, and solving complex challenges using cutting-edge tools and technologies.
+I'm a senior at the University of Illinois at Chicago, majoring in Data Science and a Machine Learning enthusiast. I am passionate about numbers, statistics, and using data to drive impactful decisions. My expertise includes building predictive models, uncovering actionable insights, and solving complex challenges using cutting-edge tools and technologies.     
 
-🛠️ My Tech Stack
-Programming Languages: Python, R, SAS, SQL, C++, C
-Libraries & Frameworks: NumPy, Pandas, Matplotlib, Scikit-learn, Keras
-Data Visualization & BI Tools: Tableau, Power BI, Power Query, Power Apps (for interactive dashboards and app-based visualizations)
-Machine Learning Techniques: 
-- Supervised Learning: K-Nearest Neighbors (KNN), Decision Trees, Random Forest, Logistic Regression, Boosting, Support Vector Machines (SVM)
-- Unsupervised Learning: Clustering, Latent Semantic Analysis (LSA), Linear Discriminant Analysis (LDA), Topic Modeling
+🛠️ My Tech Stack     
+Programming Languages: Python, R, SAS, SQL, C++, C      
+Libraries & Frameworks: NumPy, Pandas, Matplotlib, Scikit-learn, Keras     
+Data Visualization & BI Tools: Tableau, Power BI, Power Query, Power Apps (for interactive dashboards and app-based visualizations)       
+Machine Learning Techniques:      
+- Supervised Learning: K-Nearest Neighbors (KNN), Decision Trees, Random Forest, Logistic Regression, Boosting, Support Vector Machines (SVM)        
+- Unsupervised Learning: Clustering, Latent Semantic Analysis (LSA), Linear Discriminant Analysis (LDA), Topic Modeling      
 
 🌟 Key Projects   
 Project Name 1: Chicago Public Schools (CPS)    
