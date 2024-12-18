@@ -37,7 +37,7 @@ Description: Highlight your AI Studio project here with a focus on its goal, imp
 When I’m not crunching numbers or building models, I enjoy drawing, painting, and crafting. I’m also passionate about reading books and volunteering in the trucking industry, where I assist in the accounting department.
 
 📫 Let’s Connect!
-LinkedIn: linkedin.com/in/svetlanavoda
-Email: svetlanavoda@gmail.com
+LinkedIn: linkedin.com/in/svetlanavoda     
+Email: svetlanavoda@gmail.com     
 
 
