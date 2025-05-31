@@ -3,17 +3,11 @@ I'm a senior at the University of Illinois at Chicago, majoring in Data Science 
 
 🛠️ My Tech Stack     
 Programming Languages: 
-<!-- Python (Official: #3776AB) -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<!-- R (Official: #276DC3) -->
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<!-- SAS (Not officially supported on Shields, using closest brand color: #1E90FF) -->
 <img src="https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge&logoColor=white">
-<!-- SQL (using PostgreSQL as representative, #336791) -->
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<!-- C++ (Official C++ blue: #00599C) -->
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<!-- C (Official: #A8B9CC) -->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 
 
