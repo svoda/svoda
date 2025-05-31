@@ -2,12 +2,49 @@
 I'm a senior at the University of Illinois at Chicago, majoring in Data Science and a Machine Learning enthusiast. I am passionate about numbers, statistics, and using data to drive impactful decisions. My expertise includes building predictive models, uncovering actionable insights, and solving complex challenges using cutting-edge tools and technologies.     
 
 🛠️ My Tech Stack     
-Programming Languages: Python, R, SAS, SQL, C++, C      
-Libraries & Frameworks: NumPy, Pandas, Matplotlib, Scikit-learn, Keras     
-Data Visualization & BI Tools: Tableau, Power BI, Power Query, Power Apps (for interactive dashboards and app-based visualizations)       
+Programming Languages: 
+<!-- Python (Official: #3776AB) -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<!-- R (Official: #276DC3) -->
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<!-- SAS (Not officially supported on Shields, using closest brand color: #1E90FF) -->
+<img src="https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge&logoColor=white">
+<!-- SQL (using PostgreSQL as representative, #336791) -->
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<!-- C++ (Official C++ blue: #00599C) -->
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<!-- C (Official: #A8B9CC) -->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+
+
+
+🧰 Libraries & Frameworks
+
+### 🐍 Python
+- **NumPy** – Numerical computing
+- **Pandas** – Data manipulation
+- **Matplotlib** / **Seaborn** – Data visualization
+- **Scikit-learn** – Machine learning
+- **NLTK**, **Gensim**, **WordCloud** – Natural language processing
+- **SciPy** – Scientific computing
+- **TensorFlow**, **Keras** – Deep learning
+
+### 📊 R
+- **dplyr** – Data manipulation
+- **ggplot2** – Data visualization
+- **caret**, **e1071**, **glmnet**, **xgboost**, **randomForest** – Machine learning    
+
+Data Visualization & BI Tools:   
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"> 
+     
 Machine Learning Techniques:      
 - Supervised Learning: K-Nearest Neighbors (KNN), Decision Trees, Random Forest, Logistic Regression, Boosting, Support Vector Machines (SVM)        
-- Unsupervised Learning: Clustering, Latent Semantic Analysis (LSA), Linear Discriminant Analysis (LDA), Topic Modeling      
+- Unsupervised Learning: Clustering, Latent Semantic Analysis (LSA), Linear Discriminant Analysis (LDA), Topic Modeling 
+
 
 🌟 Key Projects   
 Project Name 1: Chicago Public Schools (CPS)    
@@ -37,7 +74,7 @@ Description: Highlight your AI Studio project here with a focus on its goal, imp
 When I’m not crunching numbers or building models, I enjoy drawing, painting, and crafting. I’m also passionate about reading books and volunteering in the trucking industry, where I assist in the accounting department.
 
 📫 Let’s Connect!     
-LinkedIn: linkedin.com/in/svetlanavoda     
-Email: svetlanavoda@gmail.com     
+<a href= "svetlanavoda@gmail.com"><img src = "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
+<a href= "linkedin.com/in/svetlanavoda"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 
