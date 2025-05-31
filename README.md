@@ -2,7 +2,7 @@
 I'm a senior at the University of Illinois at Chicago, majoring in Data Science and a Machine Learning enthusiast. I am passionate about numbers, statistics, and using data to drive impactful decisions. My expertise includes building predictive models, uncovering actionable insights, and solving complex challenges using cutting-edge tools and technologies.     
 
 🛠️ My Tech Stack     
-Programming Languages: 
+Programming Languages:     
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge&logoColor=white">
